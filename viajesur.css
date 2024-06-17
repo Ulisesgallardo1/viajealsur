@@ -452,6 +452,12 @@ li{
     }
 }
 
+@media(max-width: 410px){
+    .content{
+        font: size 13px;
+    }
+}
+
 
 
 
